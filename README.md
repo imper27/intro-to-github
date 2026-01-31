@@ -18,3 +18,5 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 We hope this will be useful to students.  Please let us know how it can be more useful to you.
 
 This readme is on the local computer.
+
+Just checking out push.
